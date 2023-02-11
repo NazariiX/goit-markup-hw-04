@@ -181,6 +181,15 @@ body {
 }
 /* ___________hero end______________ */
 
+.thumb {
+  background: #f4f4fd;
+  border-radius: 4px;
+  width: 264px;
+  height: 112px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .card-container {
   display: flex;
   flex-wrap: wrap;
@@ -276,6 +285,7 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--dark);
+  margin-top: 8px;
   margin-bottom: 8px;
 }
 .subtitle {
@@ -376,7 +386,6 @@ body {
 }
 .hover-icons {
   fill: currentColor;
-
 }
 /* footer */
 .footer-background {
