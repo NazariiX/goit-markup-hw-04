@@ -395,6 +395,8 @@ body {
   padding-top: 100px;
   padding-bottom: 100px;
   display: flex;
+  margin: 0 auto;
+  max-width: 1440px;
 }
 
 .footer-subtitle {
@@ -439,7 +441,7 @@ body {
   height: 40px;
 }
 .ft-soc-item :hover,
-:focus {
+.ft-soc-item:focus {
   background: #31d0aa;
 }
 
@@ -454,9 +456,6 @@ body {
 }
 
 .footer-container {
-  max-width: 1158px;
-  padding-left: 15px;
-  padding-right: 15px;
   margin-left: 156px;
   margin-right: 120px;
 }
