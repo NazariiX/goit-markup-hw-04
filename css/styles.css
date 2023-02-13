@@ -381,14 +381,12 @@ body {
 }
 .footer-container {
   display: flex;
+  width: 1158px;
 }
 .footer-container-logo {
   padding-right: 120px;
-  padding-left: 156px;
 }
 .container-footer-soc {
-  /* margin: 0 0;
-  display: block; */
 }
 .footer-subtitle {
   font-family: "Roboto", sans-serif;
